@@ -1,0 +1,14 @@
+{
+  "news": [
+    {
+      "date": "03.02.2026",
+      "tag": "Update",
+      "message": "Neuer Build-Prozess für Projekt Observer implementiert."
+    },
+    {
+      "date": "02.02.2026",
+      "tag": "Wichtig",
+      "message": "Denke daran, die Backups für die Maya-Szenen zu prüfen!"
+    }
+  ]
+}
